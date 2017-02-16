@@ -1,0 +1,74 @@
+/*//////////////////////////HEADER-DETAILS//////////////////////////////*/
+.top-bar{
+  background-color: #000000;
+  height: 3.75rem;
+}
+
+.has-dropdown not-click{
+  
+}
+
+.top-bar img{
+height: 3.3rem;
+padding-top: 5px;
+box-sizing: border-box;
+}
+
+.top-bar-section .has-dropdown{
+  height: 3.75rem;
+
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+  line-height: 3.75rem;
+  background-color:#009F9D ;
+}
+
+.top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+  background: #009F9D;
+  color: white;
+}
+.opt {.top-bar-section li:not(.has-form) a:not(.button)  {
+  line-height: 3.75rem;
+
+}
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+  line-height: 3.75rem;
+
+}
+
+/*////////////////////////HOME-PAGE HERO-DEATILS/////////////////////////////////*/
+.hero {
+  background:url(../img/beach.jpg)no-repeat center;
+  background-size: cover;
+  height: 50vh;
+   margin-bottom: 3rem; }
+ /*/////////////////////////////////////////POST-PAGE//////////////////////////////////////////////*/
+ .main-section img{
+  margin-bottom:1rem;
+ }
+ .main-section p{
+  margin-bottom:5rem;
+   }
+
+.main-section h2{
+  text-decoration:underline;
+}
+/*////////////////////////////////////////ABOUT-PAGE/////////////////////////////////////////////*/
+.icons .fa{
+ margin-right:10%;
+}
+
+
+/*///////////////////////FOOTER DETAILS///////////////////////////////////////////*/
+.footer{
+  background-color:#009F9D;
+  padding-bottom:20px;
+}
+.footer .fa{
+  margin-top: 3%;
+  margin-right:10%;
+  color:#F0F0F0;
+}
