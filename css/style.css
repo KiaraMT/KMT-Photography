@@ -52,7 +52,9 @@ box-sizing: border-box;
  .main-section p{
   margin-bottom:5rem;
    }
-
+.margin-section{
+   margin-bottom:5rem;
+}
 .main-section h2{
   text-decoration:underline;
 }
